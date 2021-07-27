@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/devbysn/Video-Search-ReactJS/static/css/main.6a9c6774.chunk.css",
+    "main.js": "/devbysn/Video-Search-ReactJS/static/js/main.ddef066c.chunk.js",
+    "main.js.map": "/devbysn/Video-Search-ReactJS/static/js/main.ddef066c.chunk.js.map",
+    "runtime-main.js": "/devbysn/Video-Search-ReactJS/static/js/runtime-main.629ed10b.js",
+    "runtime-main.js.map": "/devbysn/Video-Search-ReactJS/static/js/runtime-main.629ed10b.js.map",
+    "static/js/2.631126c6.chunk.js": "/devbysn/Video-Search-ReactJS/static/js/2.631126c6.chunk.js",
+    "static/js/2.631126c6.chunk.js.map": "/devbysn/Video-Search-ReactJS/static/js/2.631126c6.chunk.js.map",
+    "index.html": "/devbysn/Video-Search-ReactJS/index.html",
+    "static/css/main.6a9c6774.chunk.css.map": "/devbysn/Video-Search-ReactJS/static/css/main.6a9c6774.chunk.css.map",
+    "static/js/2.631126c6.chunk.js.LICENSE.txt": "/devbysn/Video-Search-ReactJS/static/js/2.631126c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.629ed10b.js",
+    "static/js/2.631126c6.chunk.js",
+    "static/css/main.6a9c6774.chunk.css",
+    "static/js/main.ddef066c.chunk.js"
+  ]
+}
